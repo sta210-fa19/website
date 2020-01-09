@@ -108,7 +108,7 @@ The regression analysis will include the bulk of your analysis results. This wil
 - Interpretations / interesting findings from the model coefficients
 - Additional work of other models or analysis not included in the final model.
 
-### Final Write Up (25 pts): due Tue, Dec 10 at 5p
+### Final Write Up (25 pts): due Tue, Dec 10 at 11:59p
 
 The goal of the write up is to demonstrate your ability to ask meaningful questions and answer them with the results from regression analysis, that
 you are proficient in using R, and that you are proficient at interpreting and 
